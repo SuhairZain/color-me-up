@@ -4,3 +4,6 @@
 [submodule "color-me-up-backend"]
 	path = color-me-up-backend
 	url = https://github.com/SuhairZain/color-me-up-backend.git
+[submodule "color-me-up-frontend"]
+	path = color-me-up-frontend
+	url = https://github.com/SuhairZain/color-me-up-frontend.git
